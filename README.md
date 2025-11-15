@@ -14,8 +14,6 @@ The assignment provides three folders:
 • forest – images of a stable forest area  
 • non_forest – images of a non-forested area  
 • time_series – images of a site where deforestation occurred  
-
-
 Each image is a GeoTIFF with 3 bands: VV, VH, and incidence angle.  
 The acquisition date of each image is encoded in the filename  
 (e.g., `..._20200326T093933_...`).
