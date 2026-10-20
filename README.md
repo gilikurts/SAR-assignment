@@ -10,6 +10,8 @@ All code and analysis appear inside the notebook:
 ---
 
 ## Dataset
+The input data are not included in this repository. To run the notebook, obtain the assignment GeoTIFF files separately and place them in `data/forest/`, `data/non_forest/`, and `data/time_series/`.
+
 The assignment provides three folders:  
 • forest – images of a stable forest area  
 • non_forest – images of a non-forested area  
